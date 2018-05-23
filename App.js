@@ -31,7 +31,7 @@ export default class App extends Component<Props> {
           To get started, edit App.js
         </Text>
         <Text style={styles.welcome}>
-        Hai my 
+        Hai my username git is igunwiguna
         </Text>
         <Text style={styles.instructions}>
           {instructions}
